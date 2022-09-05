@@ -1,5 +1,7 @@
 # Hepsitodo App UI
 
+Please check the [repo](https://github.com/sinyorre/hepsitodo-backend) and run the Hepsitodo backend service.
+
 If you want to run this project, you have two options.
 
 * 1- Use `docker container run -p 3000:80 snalagoz/todo-app-todo_ui`
