@@ -1,0 +1,20 @@
+.todo-card{
+    display: flex;
+    flex-direction: column;
+    border: 0.1px solid #dc3545;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 10px;
+    cursor: pointer;
+}
+.completed {
+    text-decoration: line-through;
+    color: #198754;
+    border: 0.1px solid #198754;
+}
+.title{
+    display: flex;
+}
+.description{
+    display: flex;
+}
