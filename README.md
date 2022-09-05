@@ -9,12 +9,19 @@ If you want to run this project, you have two options.
 
 ## Project Screenshots
 ![1-resim](https://github.com/sinyorre/hepsitodo-ui/blob/master/public/screenshots/1.PNG)
+
 ![2-resim](https://github.com/sinyorre/hepsitodo-ui/blob/master/public/screenshots/2.PNG)
+
 ![3-resim](https://github.com/sinyorre/hepsitodo-ui/blob/master/public/screenshots/3.PNG)
+
 ![4-resim](https://github.com/sinyorre/hepsitodo-ui/blob/master/public/screenshots/4.PNG)
+
 ![5-resim](https://github.com/sinyorre/hepsitodo-ui/blob/master/public/screenshots/5.PNG)
+
 ![6-resim](https://github.com/sinyorre/hepsitodo-ui/blob/master/public/screenshots/6.PNG)
+
 ![7-resim](https://github.com/sinyorre/hepsitodo-ui/blob/master/public/screenshots/7.PNG)
+
 ![8-resim](https://github.com/sinyorre/hepsitodo-ui/blob/master/public/screenshots/8.PNG)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
