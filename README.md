@@ -8,19 +8,36 @@ If you want to run this project, you have two options.
 * 2- Use `npm install` and `npm start` commands to run this project on your local
 
 ## Project Screenshots
+
+#### Image-1
+
 ![1-resim](https://github.com/sinyorre/hepsitodo-ui/blob/master/public/screenshots/1.PNG)
+
+#### Image-2
 
 ![2-resim](https://github.com/sinyorre/hepsitodo-ui/blob/master/public/screenshots/2.PNG)
 
+#### Image-3
+
 ![3-resim](https://github.com/sinyorre/hepsitodo-ui/blob/master/public/screenshots/3.PNG)
+
+#### Image-4
 
 ![4-resim](https://github.com/sinyorre/hepsitodo-ui/blob/master/public/screenshots/4.PNG)
 
+#### Image-5
+
 ![5-resim](https://github.com/sinyorre/hepsitodo-ui/blob/master/public/screenshots/5.PNG)
+
+#### Image-6
 
 ![6-resim](https://github.com/sinyorre/hepsitodo-ui/blob/master/public/screenshots/6.PNG)
 
+#### Image-7
+
 ![7-resim](https://github.com/sinyorre/hepsitodo-ui/blob/master/public/screenshots/7.PNG)
+
+#### Image-8
 
 ![8-resim](https://github.com/sinyorre/hepsitodo-ui/blob/master/public/screenshots/8.PNG)
 
